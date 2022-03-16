@@ -1,0 +1,15 @@
+.navbar {
+    border: 1px solid black;
+    padding: 1rem 0 1rem 0;
+}
+.navbar_div {
+    text-align: center;
+}
+body {
+    font-size: 62.5%;
+}
+.navbar_div>button {
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 1rem;
+}
